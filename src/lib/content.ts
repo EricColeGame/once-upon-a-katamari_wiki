@@ -258,11 +258,31 @@ const GROUP_TITLES_JA: Record<string, string> = {
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  es: {
+    guide: "Guías",
+    mechanics: "Mecánicas",
+    items: "Objetos y coleccionables",
+    characters: "Personajes y primos",
+    modes: "Modos de juego",
+    platforms: "Plataformas",
+    tips: "Consejos y análisis",
+  },
+  fr: {
+    guide: "Guides",
+    mechanics: "Mécaniques",
+    items: "Objets et collectionnables",
+    characters: "Personnages et cousins",
+    modes: "Modes de jeu",
+    platforms: "Plateformes",
+    tips: "Astuces et tests",
+  },
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  es: "Resumen",
+  fr: "Aperçu",
 };
 
 // 分组排序顺序
