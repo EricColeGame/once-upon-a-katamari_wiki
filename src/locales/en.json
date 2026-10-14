@@ -39,22 +39,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the dual-stick rolling controls, mission types, and route habits that clear your first Once Upon A Katamari stages without constant restarts."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Cousins & Characters",
+          "description": "Meet the Prince and the 68 collectible cousins, how stage conditions unlock them, and which designs suit fast rolling or KatamariBall matches."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Collectibles & Crowns",
+          "description": "Track all 248 collectibles, from 141 Crowns and 39 Presents to every cousin, and learn where the rarest pickups hide across each era."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in Once Upon A Katamari."
+          "title": "KatamariBall Multiplayer",
+          "description": "Understand the four-player cosmic sport, how online and CPU matches differ, and the magnet tactics that win rolling contests."
         }
       ]
     },
@@ -62,237 +62,311 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Beginner Guide",
+        "All Cousins",
+        "KatamariBall",
+        "Collectibles"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Rolling controls, mission types, and route planning for your first Once Upon A Katamari stages.",
+          "href": "/guide/once-upon-a-katamari-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Full Walkthrough",
+          "description": "Stage-by-stage walkthrough across the Jurassic Period, the Ice Age, historic Japan, and beyond.",
+          "href": "/guide/once-upon-a-katamari-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "All Cousins",
+          "description": "Every one of the 68 cousins, their unlock conditions, and the levels they open up.",
+          "href": "/guide/once-upon-a-katamari-all-cousins"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Crown Locations",
+          "description": "Find all 141 Crowns hidden across Once Upon A Katamari stages and eras.",
+          "href": "/items/once-upon-a-katamari-crown-locations"
+        },
+        {
+          "badge": "New",
+          "title": "KatamariBall Multiplayer",
+          "description": "Four-player online and CPU matches explained, with magnet tactics that win rounds.",
+          "href": "/modes/once-upon-a-katamari-multiplayer"
+        },
+        {
+          "badge": "Popular",
+          "title": "Tips & Tricks",
+          "description": "Fifteen rolling habits that help every Once Upon A Katamari stage end bigger.",
+          "href": "/tips/once-upon-a-katamari-tips"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Achievements",
+          "description": "Full trophy and achievement list with the cousin and Crown goals behind them.",
+          "href": "/guide/once-upon-a-katamari-achievements"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Best Version to Buy",
+          "description": "Compare PS5, Xbox Series X|S, PC, Switch, and Switch 2 before you pick an edition.",
+          "href": "/tips/once-upon-a-katamari-best-version"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "How Long to Beat",
+          "description": "Story length, 100% completion time, and the cousin hunt that stretches a run.",
+          "href": "/guide/once-upon-a-katamari-how-long-to-beat"
         }
       ]
     },
     "aboutGame": {
       "title": "What is Once Upon A Katamari?",
       "paragraphs": [
-        "Once Upon A Katamari is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "Once Upon A Katamari is a colorful rolling puzzle action game developed by RENGAME and published by Bandai Namco Entertainment. You play as the Prince, rolling a sticky Katamari through themed worlds to collect everyday objects, grow your ball, and rebuild the night sky after the King of All Cosmos accidentally destroys the stars.",
+        "The adventure travels through the Jurassic Period, the Ice Age, historic Japan, and other eras, mixing solo size-target stages with the four-player KatamariBall sport. Along the way you unlock 68 cousins, hunt 248 collectibles including Crowns and Presents, and customize your character with costumes and unlockable faces."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
+          "value": "RENGAME"
         },
         {
-          "label": "Platform",
-          "value": "Roblox"
+          "label": "Publisher",
+          "value": "Bandai Namco"
+        },
+        {
+          "label": "Release Date",
+          "value": "October 24, 2025"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Rolling Puzzle Action"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "5"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Playable Cousins",
+          "value": "68"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
-        },
-        {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Collectibles",
+          "value": "248"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore Once Upon A Katamari Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Dive into Once Upon A Katamari with beginner walkthroughs, cousin unlocks, stage routes, collectible checklists, KatamariBall strategies, and platform buying advice.",
       "modules": [
         {
           "order": 1,
-          "name": "Once Upon A Katamari Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/once-upon-a-katamari-codes",
-          "displayType": "code-box",
+          "name": "Once Upon A Katamari Beginner Guide",
+          "description": "Learn the core rolling mechanics, how to grow your Katamari by collecting objects, and how to complete stages efficiently. Introduce essential controls, stage objectives, and practical tips to help new players get started.",
+          "href": "/guide/once-upon-a-katamari-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Push both sticks the same direction to roll forward, reverse, and carve wide turns"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Read the mission type: size target, item hunt, biggest object, or score attack"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Loop dense areas first so your Katamari grows before the timer bites"
+            },
+            {
+              "label": "4",
+              "detail": "Pivot with opposite stick inputs to squeeze through tight alleys and doorways"
+            },
+            {
+              "label": "5",
+              "detail": "Bank the biggest single object last to finish above the target size"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/once-upon-a-katamari-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "Once Upon A Katamari Cousins Guide",
+          "description": "Explore the Prince and the 68 available cousins, including character selection and customization options. Organize available character information into an easy-to-browse guide to help players discover their preferred appearance and play style.",
+          "href": "/guide/once-upon-a-katamari-all-cousins",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Prince",
+              "detail": "Balanced all-rounder and the default roller for every stage"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "Cousins",
+              "detail": "68 collectible characters unlocked through stage conditions"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Customize",
+              "detail": "Change faces, outfits, and accessories with King Tokens and Presents"
+            },
+            {
+              "label": "Unlocks",
+              "detail": "Collect every cousin to open two later levels and related trophies"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/once-upon-a-katamari-tier-list",
-          "displayType": "tier-grid",
+          "name": "Once Upon A Katamari Stages Guide",
+          "description": "Explore stages across different historical periods, including the Jurassic Period, the Ice Age, and historic Japan. Summarize stage objectives, collectible requirements, and useful strategies for growing the Katamari and completing challenges.",
+          "href": "/guide/once-upon-a-katamari-walkthrough",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "Jurassic",
+              "detail": "Dinosaurs and jungle clutter make this era a fast growth route"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "Ice Age",
+              "detail": "Slippery ground rewards momentum control and early turns"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "Japan",
+              "detail": "Tight historic streets hide dense clusters of small objects"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "Eras",
+              "detail": "Roll across time to rebuild the night sky the King destroyed"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/once-upon-a-katamari-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "Once Upon A Katamari KatamariBall Guide",
+          "description": "Explain the four-player KatamariBall mode, including its competitive objective, online multiplayer, and offline matches against CPU opponents. Provide practical strategies for collecting objects quickly, increasing Katamari size, and earning points within the time limit.",
+          "href": "/modes/once-upon-a-katamari-multiplayer",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Queue for a four-player KatamariBall match online or against CPU cousins"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Race rivals to the densest object clusters and grow fastest"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Use the magnet to pull nearby objects away from opponents"
+            },
+            {
+              "label": "4",
+              "detail": "Bank the biggest objects inside the time limit to take the round"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/once-upon-a-katamari-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "Once Upon A Katamari Items and Power-Ups",
+          "description": "Introduce useful gameplay tools, including the magnet that attracts nearby objects, and explain how they support Katamari growth. Organize confirmed tools and collectible-related mechanics into a ranked reference with practical usage tips.",
+          "href": "/items/once-upon-a-katamari-item-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "S",
+              "detail": "Magnet — pulls nearby objects straight into your Katamari"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "A",
+              "detail": "Royal Warp — repositions your ball beside a fresh object cluster"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "B",
+              "detail": "King Tokens — stage rewards spent on faces and emotes"
+            },
+            {
+              "label": "C",
+              "detail": "Free Roll — untimed practice for learning a stage layout"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/once-upon-a-katamari-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "Once Upon A Katamari DLC Guide",
+          "description": "Cover available downloadable content, including Rolling LIVE Highlights, and summarize its additional quests, music, cousins, and customization items. Help players compare the base game and available editions or DLC before deciding what to purchase.",
+          "href": "/tips/once-upon-a-katamari-best-version",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Quests",
+              "detail": "Rolling Live Highlights adds 10 new quests to the story"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Music",
+              "detail": "12 new BGM tracks, including Dance Dance Remixes"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Cousins",
+              "detail": "6 new cousins join the roster with the DLC"
+            },
+            {
+              "label": "Costumes",
+              "detail": "18 costume items add extra customization variety"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Once Upon A Katamari Editions and Platforms",
+          "description": "Compare the available game editions and supported platforms, including PlayStation 5, Xbox Series X|S, PC, Nintendo Switch, and Nintendo Switch 2. Summarize confirmed edition contents, soundtrack bundles, and platform-specific features to help players choose the right version.",
+          "href": "/platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PS5",
+              "detail": "Described in cross-platform reviews as the strongest console version"
+            },
+            {
+              "label": "Xbox",
+              "detail": "Xbox Series X|S release with online play through Game Pass"
+            },
+            {
+              "label": "PC",
+              "detail": "Steam version that scales above consoles on high-end hardware"
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch and Switch 2 releases, with the upgrade free for owners"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Once Upon A Katamari Controls and Tips",
+          "description": "Provide a quick reference for movement controls and practical techniques for navigating tight spaces, collecting nearby objects, and increasing Katamari size efficiently. Include platform-specific control information where officially documented, including the Nintendo Switch 2 mouse-control option.",
+          "href": "/tips/once-upon-a-katamari-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Roll",
+              "detail": "Push both sticks the same direction to move the Katamari"
+            },
+            {
+              "label": "Reverse",
+              "detail": "Pull both sticks back to slow down and back away"
+            },
+            {
+              "label": "Pivot",
+              "detail": "Push the sticks in opposite directions to spin in place"
+            },
+            {
+              "label": "Turn",
+              "detail": "Tilt both sticks left or right for wide, sweeping turns"
             }
           ]
         }
@@ -304,23 +378,27 @@
       "items": [
         {
           "question": "What is Once Upon A Katamari?",
-          "answer": "Once Upon A Katamari is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "Once Upon A Katamari is a rolling puzzle action game developed by RENGAME and published by Bandai Namco Entertainment. You play as the Prince, rolling a sticky Katamari through history to collect objects, rebuild the night sky, and unlock 68 cousins."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "What platforms is Once Upon A Katamari available on?",
+          "answer": "Once Upon A Katamari launched on October 24, 2025 for PlayStation 5, Xbox Series X|S, Nintendo Switch, and PC via Steam, with a Nintendo Switch 2 release following alongside the Rolling Live Highlights DLC."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "How many cousins can you unlock in Once Upon A Katamari?",
+          "answer": "There are 68 cousins to collect in Once Upon A Katamari. Gathering all of them unlocks two later levels as well as related trophies and achievements, so the cousin hunt is a progression gate rather than a side activity."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "How many collectibles are in Once Upon A Katamari?",
+          "answer": "Once Upon A Katamari contains 248 collectibles in total: 141 Crowns, 68 cousins, and 39 Presents. Cousins are usually the last category players finish because several only appear after specific stage conditions."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Does Once Upon A Katamari have multiplayer?",
+          "answer": "Yes. The four-player KatamariBall mode in Once Upon A Katamari pits you against online cousins worldwide or CPU opponents offline, and the magnet tool lets you pull nearby objects before your rivals reach them."
+        },
+        {
+          "question": "What does the Rolling Live Highlights DLC add to Once Upon A Katamari?",
+          "answer": "Rolling Live Highlights adds 10 new quests, 12 BGM tracks, 6 new cousins, and 18 costume items to Once Upon A Katamari. The Royal Sound Edition bundles that DLC with the base game for players who want the extra soundtrack content."
         }
       ]
     },
