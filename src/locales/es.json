@@ -1,1 +1,489 @@
-{}
+{
+  "site": {
+    "name": "Once Upon A Katamari Wiki",
+    "shortName": "Once Upon A Katamari",
+    "tagline": "Guías, primos, coleccionables y consejos de KatamariBall",
+    "description": "Wiki de fans de Once Upon A Katamari con guías de niveles, desbloqueo de primos, guías de coleccionables, estrategias de KatamariBall y consejos para principiantes.",
+    "legalNotice": "Wiki de fans no oficial. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "home": "Inicio",
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guías",
+    "mechanics": "Mecánicas",
+    "items": "Objetos",
+    "characters": "Personajes",
+    "modes": "Modos",
+    "platforms": "Plataformas",
+    "tips": "Consejos"
+  },
+  "home": {
+    "meta": {
+      "title": "Once Upon A Katamari Wiki - Guías y coleccionables",
+      "description": "Explora Once Upon A Katamari con guías de niveles, guías de coleccionables, desbloqueo de primos, consejos de personalización, estrategias de KatamariBall y ayuda de juego."
+    },
+    "hero": {
+      "eyebrow": "Aventura de puzles rodantes y caprichosa",
+      "title": "Once Upon A Katamari Wiki",
+      "description": "Rueda a través de la historia, recoge objetos cotidianos, haz crecer tu Katamari, explora niveles coloridos, desbloquea 68 primos, personaliza personajes y compite en KatamariBall.",
+      "stats": [
+        "68 primos jugables",
+        "4 jugadores en KatamariBall",
+        "Año de lanzamiento 2025",
+        "5 plataformas compatibles"
+      ],
+      "primaryCta": "Guía para principiantes",
+      "secondaryCta": "Jugar en Steam",
+      "tertiaryCta": "Guía de primos",
+      "videoLabel": "Medios oficiales"
+    },
+    "updates": {
+      "title": "Últimas novedades",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en Once Upon A Katamari",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende los controles de doble palanca, los tipos de misión y los hábitos de ruta que te permiten superar tus primeros niveles de Once Upon A Katamari sin reiniciar constantemente."
+        },
+        {
+          "number": "2",
+          "title": "Primos y personajes",
+          "description": "Conoce al Príncipe y a los 68 primos coleccionables, cómo los desbloquean las condiciones de cada nivel y qué diseños van mejor para rodar rápido o para los combates de KatamariBall."
+        },
+        {
+          "number": "3",
+          "title": "Coleccionables y coronas",
+          "description": "Sigue los 248 coleccionables, desde las 141 coronas y los 39 regalos hasta cada primo, y descubre dónde se esconden los objetos más raros en cada era."
+        },
+        {
+          "number": "4",
+          "title": "Multijugador KatamariBall",
+          "description": "Entiende el deporte cósmico para cuatro jugadores, en qué se diferencian las partidas en línea y contra la CPU, y las tácticas de imán que ganan los duelos."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias",
+      "quickLinks": [
+        "Guía para principiantes",
+        "Todos los primos",
+        "KatamariBall",
+        "Coleccionables"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Controles de rodado, tipos de misión y planificación de rutas para tus primeros niveles de Once Upon A Katamari.",
+          "href": "/guide/once-upon-a-katamari-beginner-guide"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía completa",
+          "description": "Guía nivel a nivel por el Período Jurásico, la Edad de Hielo, el Japón histórico y más allá.",
+          "href": "/guide/once-upon-a-katamari-walkthrough"
+        },
+        {
+          "badge": "Popular",
+          "title": "Todos los primos",
+          "description": "Los 68 primos, sus condiciones de desbloqueo y los niveles que abren.",
+          "href": "/guide/once-upon-a-katamari-all-cousins"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Ubicaciones de coronas",
+          "description": "Encuentra las 141 coronas escondidas en los niveles y eras de Once Upon A Katamari.",
+          "href": "/items/once-upon-a-katamari-crown-locations"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Multijugador KatamariBall",
+          "description": "Partidas en línea y contra la CPU para cuatro jugadores, con tácticas de imán que ganan rondas.",
+          "href": "/modes/once-upon-a-katamari-multiplayer"
+        },
+        {
+          "badge": "Popular",
+          "title": "Consejos y trucos",
+          "description": "Quince hábitos de rodado que ayudan a terminar cada nivel de Once Upon A Katamari más grande.",
+          "href": "/tips/once-upon-a-katamari-tips"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Logros",
+          "description": "Lista completa de trofeos y logros con los objetivos de primos y coronas que hay detrás.",
+          "href": "/guide/once-upon-a-katamari-achievements"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Mejor versión para comprar",
+          "description": "Compara PS5, Xbox Series X|S, PC, Switch y Switch 2 antes de elegir una edición.",
+          "href": "/tips/once-upon-a-katamari-best-version"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Duración del juego",
+          "description": "Duración de la historia, tiempo para el 100 % y la caza de primos que alarga la partida.",
+          "href": "/guide/once-upon-a-katamari-how-long-to-beat"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es Once Upon A Katamari?",
+      "paragraphs": [
+        "Once Upon A Katamari es un colorido juego de acción y puzles rodantes desarrollado por RENGAME y publicado por Bandai Namco Entertainment. Juegas como el Príncipe, rodando un Katamari pegajoso por mundos temáticos para recoger objetos cotidianos, hacer crecer tu bola y reconstruir el cielo nocturno después de que el Rey de Todo el Cosmos destruya las estrellas por accidente.",
+        "La aventura recorre el Período Jurásico, la Edad de Hielo, el Japón histórico y otras eras, combinando niveles individuales con objetivos de tamaño y el deporte KatamariBall para cuatro jugadores. Por el camino desbloqueas 68 primos, buscas 248 coleccionables —entre ellos coronas y regalos— y personalizas tu personaje con trajes y caras desbloqueables."
+      ],
+      "stats": [
+        {
+          "label": "Desarrollador",
+          "value": "RENGAME"
+        },
+        {
+          "label": "Distribuidora",
+          "value": "Bandai Namco"
+        },
+        {
+          "label": "Fecha de lanzamiento",
+          "value": "24 de octubre de 2025"
+        },
+        {
+          "label": "Género",
+          "value": "Acción y puzles rodantes"
+        },
+        {
+          "label": "Plataformas",
+          "value": "5"
+        },
+        {
+          "label": "Primos jugables",
+          "value": "68"
+        },
+        {
+          "label": "Coleccionables",
+          "value": "248"
+        }
+      ],
+      "cta": "Explorar todas las guías"
+    },
+    "explore": {
+      "title": "Explora la wiki de Once Upon A Katamari",
+      "description": "Sumérgete en Once Upon A Katamari con guías para principiantes, desbloqueo de primos, rutas de niveles, listas de coleccionables, estrategias de KatamariBall y consejos de compra por plataforma.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Guía para principiantes de Once Upon A Katamari",
+          "description": "Aprende las mecánicas básicas de rodado, cómo hacer crecer tu Katamari recogiendo objetos y cómo completar los niveles con eficiencia. Presenta los controles esenciales, los objetivos de nivel y consejos prácticos para que los nuevos jugadores empiecen.",
+          "href": "/guide/once-upon-a-katamari-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Empuja ambas palancas en la misma dirección para avanzar, retroceder y trazar giros amplios"
+            },
+            {
+              "label": "2",
+              "detail": "Lee el tipo de misión: objetivo de tamaño, búsqueda de objetos, objeto más grande o ataque de puntuación"
+            },
+            {
+              "label": "3",
+              "detail": "Recorre primero las zonas densas para que tu Katamari crezca antes de que apriete el cronómetro"
+            },
+            {
+              "label": "4",
+              "detail": "Gira con las palancas en direcciones opuestas para colarte por callejones y puertas estrechas"
+            },
+            {
+              "label": "5",
+              "detail": "Guarda el objeto más grande para el final y termina por encima del tamaño objetivo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Guía de primos de Once Upon A Katamari",
+          "description": "Explora al Príncipe y a los 68 primos disponibles, incluida la selección de personaje y las opciones de personalización. Organiza la información de los personajes en una guía fácil de consultar para que los jugadores encuentren su aspecto y estilo de juego preferidos.",
+          "href": "/guide/once-upon-a-katamari-all-cousins",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Príncipe",
+              "detail": "Todoterreno equilibrado y el rodador por defecto en todos los niveles"
+            },
+            {
+              "label": "Primos",
+              "detail": "68 personajes coleccionables que se desbloquean con condiciones de nivel"
+            },
+            {
+              "label": "Personaliza",
+              "detail": "Cambia caras, atuendos y accesorios con tokens del Rey y regalos"
+            },
+            {
+              "label": "Desbloqueos",
+              "detail": "Reúne todos los primos para abrir dos niveles posteriores y trofeos relacionados"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía de niveles de Once Upon A Katamari",
+          "description": "Explora niveles de distintas épocas históricas, como el Período Jurásico, la Edad de Hielo y el Japón histórico. Resume los objetivos de nivel, los requisitos de coleccionables y estrategias útiles para hacer crecer el Katamari y superar los desafíos.",
+          "href": "/guide/once-upon-a-katamari-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Jurásico",
+              "detail": "Los dinosaurios y el desorden de la selva convierten esta era en una ruta de crecimiento rápido"
+            },
+            {
+              "label": "Edad de Hielo",
+              "detail": "El suelo resbaladizo premia el control del impulso y los giros tempranos"
+            },
+            {
+              "label": "Japón",
+              "detail": "Las estrechas calles históricas esconden densos grupos de objetos pequeños"
+            },
+            {
+              "label": "Eras",
+              "detail": "Rueda a través del tiempo para reconstruir el cielo nocturno que el Rey destruyó"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Guía de KatamariBall de Once Upon A Katamari",
+          "description": "Explica el modo KatamariBall para cuatro jugadores, incluido su objetivo competitivo, el multijugador en línea y las partidas offline contra la CPU. Ofrece estrategias prácticas para recoger objetos rápido, aumentar el tamaño del Katamari y sumar puntos dentro del tiempo límite.",
+          "href": "/modes/once-upon-a-katamari-multiplayer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Entra en una partida de KatamariBall para cuatro jugadores en línea o contra primos controlados por la CPU"
+            },
+            {
+              "label": "2",
+              "detail": "Compite con tus rivales por los grupos de objetos más densos y crece lo más rápido posible"
+            },
+            {
+              "label": "3",
+              "detail": "Usa el imán para atraer los objetos cercanos y quitárselos a tus oponentes"
+            },
+            {
+              "label": "4",
+              "detail": "Recoge los objetos más grandes dentro del tiempo límite para llevarte la ronda"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Objetos y potenciadores de Once Upon A Katamari",
+          "description": "Presenta herramientas útiles de juego, como el imán que atrae objetos cercanos, y explica cómo favorecen el crecimiento del Katamari. Organiza las herramientas confirmadas y las mecánicas de coleccionables en una referencia clasificada con consejos prácticos de uso.",
+          "href": "/items/once-upon-a-katamari-item-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Imán — atrae los objetos cercanos directamente a tu Katamari"
+            },
+            {
+              "label": "A",
+              "detail": "Royal Warp — recoloca tu bola junto a un nuevo grupo de objetos"
+            },
+            {
+              "label": "B",
+              "detail": "Tokens del Rey — recompensas de nivel que se gastan en caras y gestos"
+            },
+            {
+              "label": "C",
+              "detail": "Rodado libre — práctica sin tiempo para aprender la disposición de un nivel"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de DLC de Once Upon A Katamari",
+          "description": "Cubre el contenido descargable disponible, incluido Rolling LIVE Highlights, y resume sus misiones, música, primos y objetos de personalización adicionales. Ayuda a los jugadores a comparar el juego base y las ediciones o DLC disponibles antes de decidir qué comprar.",
+          "href": "/tips/once-upon-a-katamari-best-version",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Misiones",
+              "detail": "Rolling Live Highlights añade 10 misiones nuevas a la historia"
+            },
+            {
+              "label": "Música",
+              "detail": "12 pistas BGM nuevas, incluidas las Dance Dance Remixes"
+            },
+            {
+              "label": "Primos",
+              "detail": "6 primos nuevos se unen a la plantilla con el DLC"
+            },
+            {
+              "label": "Trajes",
+              "detail": "18 objetos de traje añaden más variedad de personalización"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Ediciones y plataformas de Once Upon A Katamari",
+          "description": "Compara las ediciones disponibles y las plataformas compatibles, como PlayStation 5, Xbox Series X|S, PC, Nintendo Switch y Nintendo Switch 2. Resume el contenido confirmado de cada edición, los paquetes de banda sonora y las funciones propias de cada plataforma para ayudar a elegir la versión adecuada.",
+          "href": "/platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PS5",
+              "detail": "Descrita en los análisis multiplataforma como la versión de consola más potente"
+            },
+            {
+              "label": "Xbox",
+              "detail": "La versión de Xbox Series X|S se vende por separado; el multijugador en línea de consola requiere un nivel de Game Pass"
+            },
+            {
+              "label": "PC",
+              "detail": "Versión de Steam que supera a las consolas en equipos de gama alta"
+            },
+            {
+              "label": "Switch",
+              "detail": "Versiones de Nintendo Switch y Switch 2, con la actualización gratuita para quienes ya lo tienen"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Controles y consejos de Once Upon A Katamari",
+          "description": "Ofrece una referencia rápida de los controles de movimiento y técnicas prácticas para atravesar espacios estrechos, recoger objetos cercanos y aumentar el tamaño del Katamari con eficiencia. Incluye información de controles específica de cada plataforma cuando está documentada oficialmente, como la opción de control por ratón de Nintendo Switch 2.",
+          "href": "/tips/once-upon-a-katamari-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Rodar",
+              "detail": "Empuja ambas palancas en la misma dirección para mover el Katamari"
+            },
+            {
+              "label": "Retroceder",
+              "detail": "Tira de ambas palancas hacia atrás para frenar y retroceder"
+            },
+            {
+              "label": "Girar en el sitio",
+              "detail": "Empuja las palancas en direcciones opuestas para girar sobre ti mismo"
+            },
+            {
+              "label": "Curvar",
+              "detail": "Inclina ambas palancas a izquierda o derecha para trazar giros amplios"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre Once Upon A Katamari.",
+      "items": [
+        {
+          "question": "¿Qué es Once Upon A Katamari?",
+          "answer": "Once Upon A Katamari es un juego de acción y puzles rodantes desarrollado por RENGAME y publicado por Bandai Namco Entertainment. Juegas como el Príncipe, rodando un Katamari pegajoso a través de la historia para recoger objetos, reconstruir el cielo nocturno y desbloquear 68 primos."
+        },
+        {
+          "question": "¿En qué plataformas está disponible Once Upon A Katamari?",
+          "answer": "Once Upon A Katamari se lanzó el 24 de octubre de 2025 para PlayStation 5, Xbox Series X|S, Nintendo Switch y PC a través de Steam, con un lanzamiento posterior en Nintendo Switch 2 junto al DLC Rolling Live Highlights."
+        },
+        {
+          "question": "¿Cuántos primos puedes desbloquear en Once Upon A Katamari?",
+          "answer": "Hay 68 primos que coleccionar en Once Upon A Katamari. Reunirlos todos desbloquea dos niveles posteriores y trofeos y logros relacionados, así que la caza de primos es una puerta de progresión y no una actividad secundaria."
+        },
+        {
+          "question": "¿Cuántos coleccionables hay en Once Upon A Katamari?",
+          "answer": "Once Upon A Katamari contiene 248 coleccionables en total: 141 coronas, 68 primos y 39 regalos. Los primos suelen ser la última categoría que completan los jugadores, porque varios solo aparecen tras condiciones de nivel concretas."
+        },
+        {
+          "question": "¿Once Upon A Katamari tiene multijugador?",
+          "answer": "Sí. El modo KatamariBall para cuatro jugadores de Once Upon A Katamari te enfrenta a primos en línea de todo el mundo o a rivales de la CPU sin conexión, y el imán te permite atraer objetos cercanos antes de que lleguen tus rivales."
+        },
+        {
+          "question": "¿Qué añade el DLC Rolling Live Highlights a Once Upon A Katamari?",
+          "answer": "Rolling Live Highlights añade 10 misiones nuevas, 12 pistas BGM, 6 primos nuevos y 18 objetos de traje a Once Upon A Katamari. La Royal Sound Edition incluye ese DLC junto al juego base para quienes quieren el contenido extra de banda sonora."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para rodar por Once Upon A Katamari?",
+      "description": "Desde tus primeros rodados hasta desbloquear los 68 primos, nuestra wiki comunitaria te cubre con guías gratuitas y actualizadas.",
+      "primary": "Leer la guía para principiantes",
+      "secondary": "Jugar en Steam"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de Once Upon A Katamari",
+    "overviewDescription": "Guías de niveles, consejos para principiantes, rutas de logros y trofeos, y ayuda nivel a nivel para avanzar por Once Upon A Katamari a tu ritmo."
+  },
+  "mechanics": {
+    "overviewTitle": "Mecánicas de Once Upon A Katamari",
+    "overviewDescription": "Cómo funciona de verdad el bucle del Katamari: objetivos de tamaño, cronómetros, sesiones de rodado libre, tokens del Rey, Royal Warp y las reglas de cada nivel."
+  },
+  "items": {
+    "overviewTitle": "Objetos y coleccionables de Once Upon A Katamari",
+    "overviewDescription": "Sigue las coronas, el pergamino del Rey, los regalos y la lista completa de objetos para completar la colección de 3.752 objetos sin perder ni una pieza."
+  },
+  "characters": {
+    "overviewTitle": "Personajes y primos de Once Upon A Katamari",
+    "overviewDescription": "Conoce al Rey de Todo el Cosmos, al Príncipe y a los primos que puedes desbloquear, además de dónde encontrar a cada uno y quién les pone voz."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de Once Upon A Katamari",
+    "overviewDescription": "Carrera, Pillapilla, modo infinito, niveles ocultos y partidas multijugador, explicados para que sepas exactamente qué exige cada modo a tu katamari."
+  },
+  "platforms": {
+    "overviewTitle": "Plataformas de Once Upon A Katamari",
+    "overviewDescription": "Análisis versión a versión de PS5, Xbox Series X|S y Game Pass, Nintendo Switch 2, PC y el rendimiento y las mejoras en Steam Deck."
+  },
+  "tips": {
+    "overviewTitle": "Consejos y análisis de Once Upon A Katamari",
+    "overviewDescription": "Consejos prácticos de rodado, comparativas de versiones, reacciones de la comunidad y análisis honestos para decidir cómo jugar y si vale la pena."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación de la wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Tabla de contenidos",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!",
+    "noActiveCodes": "No hay códigos activos disponibles actualmente",
+    "checkBackSoon": "Vuelve pronto para ver nuevos códigos"
+  },
+  "footer": {
+    "aboutTitle": "Once Upon A Katamari Wiki",
+    "about": "Once Upon A Katamari Wiki es un centro de guías independiente creado por fans que cubre guías de niveles, desbloqueo de primos, coleccionables, estrategias de KatamariBall y conocimientos esenciales del juego, tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 Once Upon A Katamari Wiki. Sin afiliación con Bandai Namco Entertainment.",
+    "description": "Wiki de fans de Once Upon A Katamari con guías de niveles, primos, coleccionables y consejos de KatamariBall.",
+    "playGame": "Jugar en Steam",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "redditCommunity": "Comunidad de Reddit",
+    "vvBuilder": "Lista de primos",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de carrera",
+    "cousinGuides": "Guías de primos",
+    "collectibleGuides": "Guías de coleccionables",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

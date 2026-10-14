@@ -1,1 +1,489 @@
-{}
+{
+  "site": {
+    "name": "Once Upon A Katamari Wiki",
+    "shortName": "Once Upon A Katamari",
+    "tagline": "攻略、いとこ、コレクティブル、塊魂ボールのコツ",
+    "description": "ステージ攻略、いとこの解放、コレクティブルガイド、塊魂ボールの戦略、初心者向けのコツを掲載したファン制作の Once Upon A Katamari ウィキ。",
+    "legalNotice": "非公式のファンウィキ。プレイヤーが、プレイヤーのために作っています。"
+  },
+  "nav": {
+    "home": "ホーム",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替え",
+    "guide": "ガイド",
+    "mechanics": "システム",
+    "items": "アイテム",
+    "characters": "キャラクター",
+    "modes": "モード",
+    "platforms": "対応機種",
+    "tips": "コツ"
+  },
+  "home": {
+    "meta": {
+      "title": "Once Upon A Katamari Wiki - ガイド＆コレクティブル",
+      "description": "ステージ攻略、コレクティブルガイド、いとこの解放、カスタマイズのコツ、塊魂ボールの戦略、ゲームプレイのヒントをまとめた Once Upon A Katamari ガイド。"
+    },
+    "hero": {
+      "eyebrow": "おとぎ話のようなローリングパズルアドベンチャー",
+      "title": "Once Upon A Katamari Wiki",
+      "description": "歴史を転がり、身の回りのものを集めて塊を大きく育て、カラフルなステージを巡り、68人 のいとこを解放し、キャラクターをカスタマイズして、塊魂ボールで競い合おう。",
+      "stats": [
+        "遊べるいとこ 68人",
+        "塊魂ボール 4人対戦",
+        "2025年 発売",
+        "対応機種 5つ"
+      ],
+      "primaryCta": "初心者ガイド",
+      "secondaryCta": "Steam でプレイ",
+      "tertiaryCta": "いとこガイド",
+      "videoLabel": "公式メディア"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべてのガイドを見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "Once Upon A Katamari の旅を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "デュアルスティックの転がし方、ミッションの種類、最初の Once Upon A Katamari ステージを何度もやり直さずにクリアするためのルートの習慣を学びましょう。"
+        },
+        {
+          "number": "2",
+          "title": "いとことキャラクター",
+          "description": "王子と 68人 のコレクティブルいとこ、ステージ条件で解放される仕組み、高速ローリングや塊魂ボールに合うデザインを紹介します。"
+        },
+        {
+          "number": "3",
+          "title": "コレクティブルと王冠",
+          "description": "王冠 141、プレゼント 39、そして全いとこを含む 248 のコレクティブルを追跡し、各時代で最もレアなアイテムの隠し場所を学びましょう。"
+        },
+        {
+          "number": "4",
+          "title": "塊魂ボール マルチプレイ",
+          "description": "4人対戦の宇宙スポーツ、オンラインと CPU 戦の違い、転がし合いに勝つためのマグネット戦術を理解しましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま話題",
+      "quickLinks": [
+        "初心者ガイド",
+        "全いとこ",
+        "塊魂ボール",
+        "コレクティブル"
+      ],
+      "cards": [
+        {
+          "badge": "初心者",
+          "title": "初心者ガイド",
+          "description": "最初の Once Upon A Katamari ステージに向けた、転がし操作、ミッションの種類、ルート計画。",
+          "href": "/guide/once-upon-a-katamari-beginner-guide"
+        },
+        {
+          "badge": "人気",
+          "title": "完全攻略",
+          "description": "ジュラ紀、氷河期、歴史的な日本などを巡るステージ別攻略。",
+          "href": "/guide/once-upon-a-katamari-walkthrough"
+        },
+        {
+          "badge": "人気",
+          "title": "全いとこ",
+          "description": "68人 のいとこ全員、その解放条件、開放されるステージ。",
+          "href": "/guide/once-upon-a-katamari-all-cousins"
+        },
+        {
+          "badge": "更新",
+          "title": "王冠の場所",
+          "description": "Once Upon A Katamari の各ステージと時代に隠された 141 の王冠を探そう。",
+          "href": "/items/once-upon-a-katamari-crown-locations"
+        },
+        {
+          "badge": "新着",
+          "title": "塊魂ボール マルチプレイ",
+          "description": "4人対戦のオンラインと CPU 戦を解説。ラウンドを制するマグネット戦術付き。",
+          "href": "/modes/once-upon-a-katamari-multiplayer"
+        },
+        {
+          "badge": "人気",
+          "title": "コツと裏技",
+          "description": "どの Once Upon A Katamari ステージもより大きく終わらせる 15 の転がし習慣。",
+          "href": "/tips/once-upon-a-katamari-tips"
+        },
+        {
+          "badge": "更新",
+          "title": "実績",
+          "description": "いとこと王冠の目標を添えた、トロフィーと実績の全リスト。",
+          "href": "/guide/once-upon-a-katamari-achievements"
+        },
+        {
+          "badge": "新着",
+          "title": "おすすめの購入版",
+          "description": "PS5、Xbox Series X|S、PC、Switch、Switch 2 を比較してから選ぼう。",
+          "href": "/tips/once-upon-a-katamari-best-version"
+        },
+        {
+          "badge": "新着",
+          "title": "クリア時間",
+          "description": "ストーリーの長さ、100% クリア時間、そして長引くいとこ探し。",
+          "href": "/guide/once-upon-a-katamari-how-long-to-beat"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Once Upon A Katamari とは？",
+      "paragraphs": [
+        "Once Upon A Katamari は、RENGAME が開発し、バンダイナムコエンターテインメントが発売するカラフルなローリングパズルアクションゲームです。プレイヤーは王子となり、粘着性のある塊をテーマごとの世界で転がして身の回りのものを集め、球を大きく育て、すべての宇宙の王が誤って星を壊してしまった夜空を再建します。",
+        "冒険はジュラ紀、氷河期、歴史的な日本などの時代を巡り、ソロのサイズ目標ステージと 4人対戦の塊魂ボールスポーツを織り交ぜます。道中では 68人 のいとこを解放し、王冠やプレゼントを含む 248 のコレクティブルを探し、コスチュームや解放されるフェイスでキャラクターをカスタマイズできます。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "RENGAME"
+        },
+        {
+          "label": "発売",
+          "value": "バンダイナムコ"
+        },
+        {
+          "label": "発売日",
+          "value": "2025年10月24日"
+        },
+        {
+          "label": "ジャンル",
+          "value": "ローリングパズルアクション"
+        },
+        {
+          "label": "対応機種",
+          "value": "5"
+        },
+        {
+          "label": "遊べるいとこ",
+          "value": "68"
+        },
+        {
+          "label": "コレクティブル",
+          "value": "248"
+        }
+      ],
+      "cta": "すべてのガイドを見る"
+    },
+    "explore": {
+      "title": "Once Upon A Katamari Wiki を探索",
+      "description": "初心者向け攻略、いとこの解放、ステージルート、コレクティブルのチェックリスト、塊魂ボールの戦略、機種ごとの購入アドバイスで Once Upon A Katamari を深掘りしましょう。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Once Upon A Katamari 初心者ガイド",
+          "description": "転がしの基本操作、ものを集めて塊を大きくする方法、ステージを効率よくクリアするコツを学びます。必須の操作、ステージの目標、初心者がすぐ始められる実践的なコツを紹介します。",
+          "href": "/guide/once-upon-a-katamari-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "両方のスティックを同じ方向に倒して前進・後退し、大きく曲がる"
+            },
+            {
+              "label": "2",
+              "detail": "ミッションの種類を確認：サイズ目標、アイテム探し、最大物体、スコアアタック"
+            },
+            {
+              "label": "3",
+              "detail": "タイマーに追われる前に塊を育てるため、まず密度の高い場所を周回する"
+            },
+            {
+              "label": "4",
+              "detail": "スティックを逆方向に入れて向きを変え、狭い路地や出入口をすり抜ける"
+            },
+            {
+              "label": "5",
+              "detail": "最後に最大の物体を回収して目標サイズを超えてフィニッシュする"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Once Upon A Katamari いとこガイド",
+          "description": "王子と 68人 のいとこを紹介し、キャラクター選択やカスタマイズの選択肢も解説します。キャラクター情報を見やすく整理し、プレイヤーが好みの見た目とプレイスタイルを見つけられるようにします。",
+          "href": "/guide/once-upon-a-katamari-all-cousins",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "王子",
+              "detail": "バランスの取れた万能型で、全ステージの既定の転がし手"
+            },
+            {
+              "label": "いとこ",
+              "detail": "ステージ条件で解放される 68人 のコレクティブルキャラクター"
+            },
+            {
+              "label": "カスタマイズ",
+              "detail": "王トークンとプレゼントでフェイス、衣装、アクセサリーを変更"
+            },
+            {
+              "label": "解放",
+              "detail": "全いとこを集めると後の 2 ステージと関連トロフィーが開放"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Once Upon A Katamari ステージガイド",
+          "description": "ジュラ紀、氷河期、歴史的な日本など、さまざまな時代のステージを紹介します。ステージの目標、コレクティブルの条件、塊を育ててチャレンジをクリアするための有効な戦略をまとめます。",
+          "href": "/guide/once-upon-a-katamari-walkthrough",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "ジュラ紀",
+              "detail": "恐竜とジャングルの雑多なものが、この時代を高速成長ルートにする"
+            },
+            {
+              "label": "氷河期",
+              "detail": "滑る地面は勢いのコントロールと早めの方向転換がカギ"
+            },
+            {
+              "label": "日本",
+              "detail": "狭い歴史的街並みには小さな物体が密集している"
+            },
+            {
+              "label": "時代",
+              "detail": "王が壊した夜空を再建するため、時代を越えて転がり続けよう"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Once Upon A Katamari 塊魂ボールガイド",
+          "description": "4人対戦の塊魂ボールモードを解説し、その競技目標、オンラインマルチプレイ、CPU 相手のオフライン戦を紹介します。制限時間内に素早くものを集め、塊を大きくして得点を稼ぐ実践的な戦略を伝えます。",
+          "href": "/modes/once-upon-a-katamari-multiplayer",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "オンラインまたは CPU のいとこと 4人対戦の塊魂ボールに参加する"
+            },
+            {
+              "label": "2",
+              "detail": "最も物体が密集した場所をライバルと競い、最速で成長する"
+            },
+            {
+              "label": "3",
+              "detail": "マグネットで近くの物体を引き寄せ、相手に取らせない"
+            },
+            {
+              "label": "4",
+              "detail": "制限時間内に大きな物体を回収してラウンドを制する"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Once Upon A Katamari アイテムとパワーアップ",
+          "description": "近くの物体を引き寄せるマグネットなど、役立つゲームプレイツールを紹介し、塊の成長をどう支えるか解説します。確認済みのツールとコレクティブル関連の仕組みを、実践的な使い方のコツとともにランク付けして整理します。",
+          "href": "/items/once-upon-a-katamari-item-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "マグネット — 近くの物体を塊へ直接引き寄せる"
+            },
+            {
+              "label": "A",
+              "detail": "ロイヤルワープ — 塊を新しい物体の塊のそばへ移動させる"
+            },
+            {
+              "label": "B",
+              "detail": "王トークン — フェイスやエモートに使うステージ報酬"
+            },
+            {
+              "label": "C",
+              "detail": "フリーロール — ステージの構造を学ぶ時間無制限の練習"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Once Upon A Katamari DLC ガイド",
+          "description": "Rolling LIVE Highlights を含む配信中のダウンロードコンテンツを紹介し、追加クエスト、音楽、いとこ、カスタマイズアイテムをまとめます。購入前に本編と各エディションや DLC を比較できるようにします。",
+          "href": "/tips/once-upon-a-katamari-best-version",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "クエスト",
+              "detail": "Rolling Live Highlights はストーリーに 10 の新クエストを追加"
+            },
+            {
+              "label": "音楽",
+              "detail": "Dance Dance Remixes を含む 12 曲の新 BGM"
+            },
+            {
+              "label": "いとこ",
+              "detail": "DLC で 6人 の新しいいとこが名簿に加わる"
+            },
+            {
+              "label": "コスチューム",
+              "detail": "18 種類のコスチュームアイテムでカスタマイズがさらに広がる"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Once Upon A Katamari エディションと対応機種",
+          "description": "PlayStation 5、Xbox Series X|S、PC、Nintendo Switch、Nintendo Switch 2 など、発売中のエディションと対応機種を比較します。確認済みのエディション内容、サウンドトラック同梱、機種ごとの特徴をまとめ、最適なバージョン選びを助けます。",
+          "href": "/platforms",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "PS5",
+              "detail": "クロスプラットフォームのレビューで最も強力なコンソール版と評される"
+            },
+            {
+              "label": "Xbox",
+              "detail": "Xbox Series X|S 版は単体販売。コンソールのオンラインマルチプレイには Game Pass のいずれかのプランが必要"
+            },
+            {
+              "label": "PC",
+              "detail": "ハイエンド環境でコンソールを上回る Steam 版"
+            },
+            {
+              "label": "Switch",
+              "detail": "Nintendo Switch と Switch 2 版。所有者はアップグレードが無料"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Once Upon A Katamari 操作とコツ",
+          "description": "移動操作のクイックリファレンスと、狭い場所を通り抜け、近くの物体を集め、塊を効率よく大きくする実践テクニックを紹介します。公式に記載されている機種別の操作情報（Nintendo Switch 2 のマウス操作オプションを含む）も掲載します。",
+          "href": "/tips/once-upon-a-katamari-tips",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "転がす",
+              "detail": "両方のスティックを同じ方向に倒して塊を動かす"
+            },
+            {
+              "label": "後退",
+              "detail": "両方のスティックを手前に引いて減速し後退する"
+            },
+            {
+              "label": "旋回",
+              "detail": "スティックを逆方向に倒してその場で回転する"
+            },
+            {
+              "label": "曲がる",
+              "detail": "両方のスティックを左右に傾けて大きく旋回する"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "Once Upon A Katamari についてよく寄せられる質問への簡単な回答。",
+      "items": [
+        {
+          "question": "Once Upon A Katamari とは？",
+          "answer": "Once Upon A Katamari は、RENGAME が開発し、バンダイナムコエンターテインメントが発売するローリングパズルアクションゲームです。王子となって粘着性のある塊を歴史の中へ転がし、ものを集めて夜空を再建し、68人 のいとこを解放します。"
+        },
+        {
+          "question": "Once Upon A Katamari はどの機種で遊べますか？",
+          "answer": "Once Upon A Katamari は 2025年10月24日 に PlayStation 5、Xbox Series X|S、Nintendo Switch、PC（Steam）向けに発売され、その後 Rolling Live Highlights DLC とともに Nintendo Switch 2 版も登場しました。"
+        },
+        {
+          "question": "Once Upon A Katamari では何人のいとこを解放できますか？",
+          "answer": "Once Upon A Katamari には集めるべき 68人 のいとこがいます。全員を集めると後の 2 ステージと関連トロフィー・実績が解放されるため、いとこ探しは寄り道ではなく進行の関門です。"
+        },
+        {
+          "question": "Once Upon A Katamari のコレクティブルはいくつありますか？",
+          "answer": "Once Upon A Katamari には全部で 248 のコレクティブルがあります。内訳は王冠 141、いとこ 68、プレゼント 39 です。いとこは特定のステージ条件後にしか現れないものが多いため、通常は最後に埋まるカテゴリです。"
+        },
+        {
+          "question": "Once Upon A Katamari にマルチプレイはありますか？",
+          "answer": "はい。Once Upon A Katamari の 4人対戦の塊魂ボールモードでは、世界中のオンラインのいとこ、またはオフラインの CPU 相手に挑めます。マグネットを使えば、ライバルが届く前に近くの物体を引き寄せられます。"
+        },
+        {
+          "question": "Rolling Live Highlights DLC は Once Upon A Katamari に何を追加しますか？",
+          "answer": "Rolling Live Highlights は Once Upon A Katamari に 10 の新クエスト、12 曲の BGM、6人 の新しいいとこ、18 種類のコスチュームアイテムを追加します。Royal Sound Edition はその DLC を本編に同梱し、サウンドトラックを求めるプレイヤー向けの内容です。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Once Upon A Katamari を転がし始める準備はできた？",
+      "description": "最初の塊転がしから 68人 のいとこ解放まで、コミュニティウィキが無料で最新のガイドを提供します。",
+      "primary": "初心者ガイドを読む",
+      "secondary": "Steam でプレイ"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Once Upon A Katamari ガイド",
+    "overviewDescription": "攻略、初心者向けのコツ、実績・トロフィーのルート、ステージ別のヘルプで、自分のペースで Once Upon A Katamari を転がり抜けよう。"
+  },
+  "mechanics": {
+    "overviewTitle": "Once Upon A Katamari システム",
+    "overviewDescription": "塊魂のループの仕組みを徹底解説：サイズ目標、タイマー、フリーロール、王トークン、ロイヤルワープ、そして各ステージのルール。"
+  },
+  "items": {
+    "overviewTitle": "Once Upon A Katamari アイテム＆コレクティブル",
+    "overviewDescription": "王冠、王の巻物、プレゼント、全物体リストを追跡し、3,752 個のコレクションを一つも逃さずコンプリートしよう。"
+  },
+  "characters": {
+    "overviewTitle": "Once Upon A Katamari キャラクター＆いとこ",
+    "overviewDescription": "すべての宇宙の王、王子、解放できるいとこを紹介し、それぞれの見つけ方と担当声優も掲載。"
+  },
+  "modes": {
+    "overviewTitle": "Once Upon A Katamari ゲームモード",
+    "overviewDescription": "レース、鬼ごっこ、エンドレスモード、隠しステージ、マルチプレイセッションを解説し、各モードが塊に何を求めるかを明確に。"
+  },
+  "platforms": {
+    "overviewTitle": "Once Upon A Katamari 対応機種",
+    "overviewDescription": "PS5、Xbox Series X|S と Game Pass、Nintendo Switch 2、PC、Steam Deck のバージョン別の性能とアップグレードを解説。"
+  },
+  "tips": {
+    "overviewTitle": "Once Upon A Katamari コツ＆レビュー",
+    "overviewDescription": "実践的な転がしのコツ、バージョン比較、コミュニティの反応、正直なレビューで、遊び方と購入価値を判断しよう。"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキナビゲーション",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "inThisSection": "このセクション",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。近日公開予定です！",
+    "noActiveCodes": "現在利用可能なコードはありません",
+    "checkBackSoon": "新しいコードを近日公開予定"
+  },
+  "footer": {
+    "aboutTitle": "Once Upon A Katamari Wiki",
+    "about": "Once Upon A Katamari Wiki は、ステージ攻略、いとこの解放、コレクティブル、塊魂ボールの戦略、そして新規・ベテランプレイヤー双方に役立つゲーム知識を扱う、独立したファン制作のガイドハブです。",
+    "quickLinks": "クイックリンク",
+    "guides": "ガイド",
+    "legal": "法的事項",
+    "copyright": "2026 Once Upon A Katamari Wiki. バンダイナムコエンターテインメントとは提携していません。",
+    "description": "ステージ攻略、いとこ、コレクティブル、塊魂ボールのコツを掲載したファン制作の Once Upon A Katamari ウィキ。",
+    "playGame": "Steam でプレイ",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "redditCommunity": "Reddit コミュニティ",
+    "vvBuilder": "いとこチェックリスト",
+    "beginnerGuide": "初心者ガイド",
+    "raceGuides": "レースガイド",
+    "cousinGuides": "いとこガイド",
+    "collectibleGuides": "コレクティブルガイド",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}
