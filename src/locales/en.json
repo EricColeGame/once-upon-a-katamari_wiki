@@ -6,18 +6,7 @@
     "description": "Fan-made Once Upon A Katamari wiki with stage walkthroughs, cousin unlocks, collectible guides, KatamariBall strategies, and beginner tips.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {
-    "guide": "Guide",
-    "mechanics": "Mechanics",
-    "items": "Items",
-    "characters": "Characters",
-    "modes": "Modes",
-    "platforms": "Platforms",
-    "tips": "Tips",
-    "home": "Home",
-    "menu": "Menu",
-    "toggleTheme": "Toggle theme"
-  },
+  "nav": {},
   "home": {
     "meta": {
       "title": "Once Upon A Katamari Wiki - Guides & Collectibles",
@@ -420,34 +409,13 @@
       "secondary": "Play on Steam"
     }
   },
-  "guide": {
-    "overviewTitle": "Once Upon A Katamari Guides",
-    "overviewDescription": "Every Once Upon A Katamari guide in one place — the beginner guide, full walkthrough, trophy and achievement roadmaps, cousin and crown collectible hunts, and playtime breakdowns for clearing all 10 Eras."
-  },
-  "mechanics": {
-    "overviewTitle": "Once Upon A Katamari Mechanics",
-    "overviewDescription": "How the rolling systems behind Once Upon A Katamari actually work: speed and size objectives, difficulty and grading, Free Roll and Eternal Mode, King Tokens, and the Royal Warp that trims seconds off any run."
-  },
-  "items": {
-    "overviewTitle": "Once Upon A Katamari Items & Collectibles",
-    "overviewDescription": "Track every pickup in Once Upon A Katamari — the full item list, all 141 crown locations, 39 present locations, the King Scroll rewards, and the Lots of Roses route for a fast 5,000-rose clear."
-  },
-  "characters": {
-    "overviewTitle": "Once Upon A Katamari Characters & Cousins",
-    "overviewDescription": "Meet the cast of Once Upon A Katamari and complete the roster: the King of All Cosmos and his scroll mishap, how to unlock all 68 cousins, why some cousins go missing, the Young King REROLL bonus, and the full voice cast."
-  },
-  "modes": {
-    "overviewTitle": "Once Upon A Katamari Game Modes",
-    "overviewDescription": "Every way to play Once Upon A Katamari: Endless and Eternal Mode, hidden and secret levels, the four-player KatamariBall multiplayer, the Race stage, and the Tag You're It cousin-hunt mode."
-  },
-  "platforms": {
-    "overviewTitle": "Once Upon A Katamari Platforms",
-    "overviewDescription": "Where to roll Once Upon A Katamari: PC and Steam release details, PS5 features, Steam Deck Verified performance, the free Switch 2 upgrade with mouse controls, and Xbox Game Pass availability."
-  },
-  "tips": {
-    "overviewTitle": "Once Upon A Katamari Tips & Reviews",
-    "overviewDescription": "Get better and buy smarter with Once Upon A Katamari tips: 15 rolling tricks, the best version across PS5, PC, Switch 2 and Steam Deck, community Reddit advice, and a full review plus value breakdown."
-  },
+  "guide": {},
+  "mechanics": {},
+  "items": {},
+  "characters": {},
+  "modes": {},
+  "platforms": {},
+  "tips": {},
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
