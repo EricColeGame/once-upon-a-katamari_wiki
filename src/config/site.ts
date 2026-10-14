@@ -13,6 +13,7 @@ export interface SiteConfig {
     youtube?: string;
     twitter?: string;
     tiktok?: string;
+    reddit?: string;
   };
   locales: readonly string[];
   defaultLocale: string;
@@ -25,11 +26,12 @@ export const siteConfig: SiteConfig = {
   tagline: "Walkthroughs, Cousins, Collectibles & KatamariBall Tips",
   description: "Fan-made Once Upon A Katamari wiki with stage walkthroughs, cousin unlocks, collectible guides, KatamariBall strategies, and beginner tips.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://once-upon-a-katamari.wiki",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://once-upon-a-katamari.wiki").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://en.bandainamcoent.eu/katamari/once-upon-a-katamari",
+  supportEmail: "support@once-upon-a-katamari.wiki",
+  gameUrl: "https://store.steampowered.com/app/2797610/Once_Upon_A_KATAMARI/",
   heroVideoId: "JQpojKTAvPY", // Once Upon A KATAMARI - Official Announcement Trailer (Bandai Namco Entertainment America)
   social: {
     youtube: "https://www.youtube.com/@BandaiNamcoAmerica",
+    reddit: "https://www.reddit.com/r/katamari/",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
