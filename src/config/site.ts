@@ -1,3 +1,5 @@
+import { locales } from "@/i18n/routing";
+
 export interface SiteConfig {
   name: string;
   shortName: string;
@@ -33,6 +35,6 @@ export const siteConfig: SiteConfig = {
     youtube: "https://www.youtube.com/@BandaiNamcoAmerica",
     reddit: "https://www.reddit.com/r/katamari/",
   },
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales,
   defaultLocale: "en",
 };
