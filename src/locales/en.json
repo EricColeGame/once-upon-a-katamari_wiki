@@ -6,7 +6,18 @@
     "description": "Fan-made Once Upon A Katamari wiki with stage walkthroughs, cousin unlocks, collectible guides, KatamariBall strategies, and beginner tips.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "home": "Home",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "items": "Items",
+    "characters": "Characters",
+    "modes": "Modes",
+    "platforms": "Platforms",
+    "tips": "Tips"
+  },
   "home": {
     "meta": {
       "title": "Once Upon A Katamari Wiki - Guides & Collectibles",
@@ -409,13 +420,34 @@
       "secondary": "Play on Steam"
     }
   },
-  "guide": {},
-  "mechanics": {},
-  "items": {},
-  "characters": {},
-  "modes": {},
-  "platforms": {},
-  "tips": {},
+  "guide": {
+    "overviewTitle": "Once Upon A Katamari Guides",
+    "overviewDescription": "Walkthroughs, beginner tips, achievement and trophy routes, and stage-by-stage help for rolling through Once Upon A Katamari at your own pace."
+  },
+  "mechanics": {
+    "overviewTitle": "Once Upon A Katamari Mechanics",
+    "overviewDescription": "How the Katamari loop really works: size targets, timers, free roll sessions, King Tokens, Royal Warp, and the rules behind every stage."
+  },
+  "items": {
+    "overviewTitle": "Once Upon A Katamari Items & Collectibles",
+    "overviewDescription": "Track crowns, the King Scroll, presents, and the full object list so you can close out the 3,752-item collection without missing a single pickup."
+  },
+  "characters": {
+    "overviewTitle": "Once Upon A Katamari Characters & Cousins",
+    "overviewDescription": "Meet the King of All Cosmos, the Prince, and the cousins you can unlock, along with where to find each one and who voices them."
+  },
+  "modes": {
+    "overviewTitle": "Once Upon A Katamari Game Modes",
+    "overviewDescription": "Race, Tag, Endless Mode, hidden levels, and multiplayer sessions, explained so you know exactly what each mode asks of your katamari."
+  },
+  "platforms": {
+    "overviewTitle": "Once Upon A Katamari Platforms",
+    "overviewDescription": "Version-by-version breakdowns for PS5, Xbox Series X|S and Game Pass, Nintendo Switch 2, PC, and Steam Deck performance and upgrades."
+  },
+  "tips": {
+    "overviewTitle": "Once Upon A Katamari Tips & Reviews",
+    "overviewDescription": "Practical rolling tips, version comparisons, community reactions, and honest reviews to help you decide how to play and whether it is worth it."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
